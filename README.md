@@ -13,10 +13,10 @@ Hey there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44
 
 A passionate Web Developer from Bangladesh.
 
-- 👋 Hi, I’m @RabiulAzadTapu
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m @RabiulAzad
+- 👀 I’m interested in contribute to WordPress community.
 - 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on projects that uses php and js
+- 💞️ I’m looking to collaborate on projects that uses WordPress CMS.
 
 
 <!---
