@@ -7,7 +7,7 @@ Hey there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44
 
 <a href="https://profiles.wordpress.org/rabiulazad/"><img align="left" alt="Sayedul Sayem | WordPress" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" style="max-width: 100%;"></a>
 
-<a href="https://codepen.io/iqbalrony" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iqbalrony" height="30" width="40" style="max-width: 100%;"></a>
+<!-- <a href="https://codepen.io/iqbalrony" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iqbalrony" height="30" width="40" style="max-width: 100%;"></a> -->
 
 </br></br>
 
