@@ -7,8 +7,11 @@ Hey there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44
 
 <a href="https://profiles.wordpress.org/rabiulazad/"><img align="left" alt="Sayedul Sayem | WordPress" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" style="max-width: 100%;"></a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3ce3a4ee0986ddbf8cb3d6284eef46b516b5157ca1cf46deebac22d70cb6d5c4/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d7361796564756c736179656d2e7361796564756c736179656d"><img src="https://camo.githubusercontent.com/3ce3a4ee0986ddbf8cb3d6284eef46b516b5157ca1cf46deebac22d70cb6d5c4/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d7361796564756c736179656d2e7361796564756c736179656d" alt="Visitors" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=rabiulazadtapu" style="max-width: 100%;"></a>
-</br>
+<a href="https://codepen.io/iqbalrony" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iqbalrony" height="30" width="40" style="max-width: 100%;"></a>
+
+</br></br>
+
+A passionate Web Developer from Bangladesh.
 
 - 👋 Hi, I’m @RabiulAzadTapu
 - 👀 I’m interested in Web Development
